@@ -1,7 +1,7 @@
 # Tennis Robot
 
 <img width="496.5" height="341" alt="sideview_without_case" src="https://github.com/user-attachments/assets/7b924af1-10ff-4e80-98b7-eb169d5262bb" />
-<img width="385" height="197" alt="sideview_case" src="https://github.com/user-attachments/assets/33968279-6bbe-4b86-b663-8aea0911cdaf" />
+<img width="577.5" height="295.5" alt="sideview_case" src="https://github.com/user-attachments/assets/33968279-6bbe-4b86-b663-8aea0911cdaf" />
 
 # Short Summary
 This is a tennis robot project by https://github.com/SIN-Amb and my. We built a robot that cleans the court and collects the balls fully automated. The robot is controlled by an Mobile or Windows app.
