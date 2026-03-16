@@ -15,7 +15,6 @@ If you are interessted in building something and money is the limit check out: h
 * Robot that cleans the tennis court by attaching the cleaning net at a hook
 * Controlled by a mobile application
 * Clean design
-* 
 
 # How to use it
 
@@ -36,3 +35,6 @@ This project uses:
 * Fusion360
 * ROS2
 * Flutter
+
+# Disclaimer
+Until now, we haven't tried out our software and hardware. We will, as soon as we get funding, build and source our project. 
