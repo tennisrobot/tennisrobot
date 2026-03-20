@@ -1,1 +1,22 @@
-#;Component / Description;Price (CHF);Price (USD);Link;1;2x SURPASS HOBBY 3530 Brushless Motor + Skywalker 40A ESC Combo + XT60;59.58;75.58;https://de.aliexpress.com/item/1005010369640451.html;2;Wellpower LiPo Battery 4200mAh 14.8V 4S 35/70C XT-60;53.60;68.00;https://www.galaxus.ch/de/s5/product/wellpower-lipo-akku-ultima-4200-mah-148-volt-4s-3570c-ch58-xt-60-1480-v-4200-mah-rc-akku-24449926;3;"Rubber Tire Covers 1.9"" (4 pcs)";10.39;13.18;4 StŸck 1,9 Zoll Gummireifen 90mm fŸr 1/12 Crawler Auto Mjx H12y+ 1/10 Axial Scx10 Tamiya Cc01 D90 D10 Hsp Hpi Wltoy Tamiya - AliExpress 26;4;L298N Motor Driver;0.84;1.07;https://de.aliexpress.com/item/1005006128416583.html;5;4x TT Motors;2.88;3.65;https://de.aliexpress.com/item/1005008500544808.html;6;4x Servo 9g;5.49;6.96;https://de.aliexpress.com/item/1005010200792590.html;7;Conveyor Belt (Fšrderband);4.85;6.15;https://de.aliexpress.com/item/1005009403340692.html;8;OV13855 Camera Module;20.00;25.37;https://de.aliexpress.com/item/1005005821123064.html;9;Headlights 6500K (Scheinwerfer);4.25;5.39;10 StŸck 12V 24V 10cm 20cm 30cm 50cm 1m 5m LED Flexibler Streifen Weiches Streifenband Wasserdicht IP65 IP30 Gelb Rot GrŸn Blau Rosa 4000k - AliExpress;10;MPU-6050 3-Axis Accelerometer + Gyroscope;2.89;3.67;https://de.aliexpress.com/item/32960610502.html;12;Orange Pi 5 Pro;84.99;107.82;Orange pi 5 pro 4gb ram single board computer rk3588s lpddr5 wifi 3. 1-bt5 entwicklungs board m 5,0 unterstŸtzung ssd orange pi 5pro - AliExpress 7;13;Filament 3kg PLA Black;38.55;48.90;https://de.aliexpress.com/item/1005006924777179.html;14;4x IR Sensor;5.24;6.65;https://de.aliexpress.com/item/32960610502.html;15;M4 Screws;5.11;6.48;https://de.aliexpress.com/item/1005004682740813.html;16;Step Down XL4016;2.49;3.16;https://de.aliexpress.com/item/1005006309760854.html;;TOTAL;301.15;382.03;;
+# Bill of Materials â€” Tennis Robot
+
+> Exchange rate: 1 CHF = 1.2686 USD (mid-market, 2026-03-20)
+
+| # | Component / Description | Price (CHF) | Price (USD) | Link |
+|---|-------------------------|------------:|------------:|------|
+| 1 | 2x SURPASS HOBBY 3530 Brushless Motor + Skywalker 40A ESC Combo + XT60 | 59.58 | 75.58 | [View Product](https://de.aliexpress.com/item/1005010369640451.html) |
+| 2 | Wellpower LiPo Battery 4200mAh 14.8V 4S 35/70C XT-60 | 53.60 | 68.00 | [View Product](https://www.galaxus.ch/de/s5/product/wellpower-lipo-akku-ultima-4200-mah-148-volt-4s-3570c-ch58-xt-60-1480-v-4200-mah-rc-akku-24449926) |
+| 3 | Rubber Tire Covers 1.9" (4 pcs) | 10.39 | 13.18 | â€” |
+| 4 | L298N Motor Driver | 0.84 | 1.07 | [View Product](https://de.aliexpress.com/item/1005006128416583.html) |
+| 5 | 4x TT Motors | 2.88 | 3.65 | [View Product](https://de.aliexpress.com/item/1005008500544808.html) |
+| 6 | 4x Servo 9g | 5.49 | 6.96 | [View Product](https://de.aliexpress.com/item/1005010200792590.html) |
+| 7 | Conveyor Belt (FÃ¶rderband) | 4.85 | 6.15 | [View Product](https://de.aliexpress.com/item/1005009403340692.html) |
+| 8 | OV13855 Camera Module | 20.00 | 25.37 | [View Product](https://de.aliexpress.com/item/1005005821123064.html) |
+| 9 | Headlights 6500K (Scheinwerfer) | 4.25 | 5.39 | â€” |
+| 10 | MPU-6050 3-Axis Accelerometer + Gyroscope | 2.89 | 3.67 | [View Product](https://de.aliexpress.com/item/32960610502.html) |
+| 11 | Orange Pi 5 Pro | 84.99 | 107.82 | â€” |
+| 12 | Filament 3kg PLA Black | 38.55 | 48.90 | [View Product](https://de.aliexpress.com/item/1005006924777179.html) |
+| 13 | 4x IR Sensor | 5.24 | 6.65 | [View Product](https://de.aliexpress.com/item/32960610502.html) |
+| 14 | M4 Screws | 5.11 | 6.48 | [View Product](https://de.aliexpress.com/item/1005004682740813.html) |
+| 15 | Step Down XL4016 | 2.49 | 3.16 | [View Product](https://de.aliexpress.com/item/1005006309760854.html) |
+| **TOTAL** | | **301.15** | **382.03** | |
